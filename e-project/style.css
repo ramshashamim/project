@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap');
+.navbar {
+    background-color:rgba(255, 255, 255, 0.76) !important;
+    font-family: 'Poppins', sans-serif;
+}
+.img img{
+    width: 100%;  
+}
+.txt{
+    text-align: center;
+    margin-top: 4%;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+#footer{
+    background-color: #182145;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    padding: 10%;
+    
+}
+#footer h5{
+    font-size: 110%;
+}
+
+#bann{
+
+    background-image: url('pic/pexels-photo-1918291.jpeg'); 
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+    color: #fff;
+    text-align: center;
+    transition: 1s normal ease-in;
+    /* filter: grayscale(1);
+    -webkit-filter: grayscale(1); */
+  } 
+  #bann:hover{
+    background-image: url(pic/AD1022_BERKUS_BRENT_7.jpg\ 1.jpg);
+ 
+  }
+
+  .banner-text {
+     /* font-family: 'Poppins', sans-serif;  */
+    font-size: 4rem !important;
+    /* font-weight: bold; */
+    /* text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5); */
+    -webkit-text-stroke: 0.3px white;
+    color: transparent;
+
+  }
+
+div.index-section:hover img {
+  
+}
+  .btn1:hover{
+
+background-color: rgb(255, 255, 255,0.5);
+color: rgb(73, 50, 29);
+  }
+  .container a{
+      background-color: #182145;
+      outline: none;
+      border: none;
+  }
+  .container a:hover{
+    background-color: rgb(197, 0, 0);
+  }
+  .image-container {
+    text-align: center;
+  }
+ 
+  .image-container img {
+    max-width: 100%;
+    margin: 10px; 
+  }
+   #shop{
+    position: relative;
+    background-image: url('pic/pexels-photo-1918291 3.jpg'); 
+    background-size: cover;
+    background-position: center;
+    height: 650px;
+    color: #fff;
+    text-align: center;
+    
+  } 
+  .banner-text {
+    font-family: 'Poppins', sans-serif;
+   font-size: 5vh;
+   font-weight: bold;
+   text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+ }
+
+
+
+  
